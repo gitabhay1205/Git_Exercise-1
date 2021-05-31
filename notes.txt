@@ -1,0 +1,10 @@
+
+To committ new repository in git from springboot project
+1) Open folder of project, ex- C:\Users\Ezone\git\spring-boot-config
+2) open gitBash from here
+3) git init
+4) git add . (to add all files in folder)
+5) git commit -m "first commit"
+6) git branch -M dev  (dev is branch name I have given, you don't write this command then by default it will put it into master)
+7) git remote add origin https://github.com/gitabhay1205/spring-boot-config.git
+8) git push -u origin dev
