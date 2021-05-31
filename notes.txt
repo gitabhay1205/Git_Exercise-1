@@ -8,3 +8,6 @@ To committ new repository in git from springboot project
 6) git branch -M dev  (dev is branch name I have given, you don't write this command then by default it will put it into master)
 7) git remote add origin https://github.com/gitabhay1205/spring-boot-config.git
 8) git push -u origin dev
+
+
+Added by repo_A
