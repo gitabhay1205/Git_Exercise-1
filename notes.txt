@@ -10,4 +10,4 @@ To committ new repository in git from springboot project
 8) git push -u origin dev
 
 
-Added by repo_A second time
+Added by repo_B first time
