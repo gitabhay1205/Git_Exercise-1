@@ -1,3 +1,4 @@
+
 To committ new repository in git from springboot project
 1) Open folder of project, ex- C:\Users\Ezone\git\spring-boot-config
 2) open gitBash from here
@@ -9,4 +10,8 @@ To committ new repository in git from springboot project
 8) git push -u origin dev
 
 
-Added by repository
+<<<<<<< HEAD
+Added by repo_A third time
+=======
+Added by repo_B first time
+>>>>>>> fee81c8d69039e7930423522f32c3d204d8328d1
